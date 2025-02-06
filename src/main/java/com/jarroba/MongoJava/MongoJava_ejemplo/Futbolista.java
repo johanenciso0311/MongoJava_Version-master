@@ -1,7 +1,5 @@
 package com.jarroba.MongoJava.MongoJava_ejemplo;
 
-import com.mongodb.BasicDBList;
-import com.mongodb.BasicDBObject;
 import org.bson.Document;
 
 import java.util.ArrayList;
